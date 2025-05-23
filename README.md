@@ -2,9 +2,11 @@
 
 # run
 
+```
+npm install -g @electron-forge/cli
 yarn install
-
 yarn run start
+```
 
 # info
 
